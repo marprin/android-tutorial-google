@@ -6,3 +6,7 @@ Basic Android Tutorial Google
 4. Task Manager
 5. Compose Quadrant
 6. Business Card
+7. Dice Roller
+8. Lemonade
+9. TipCalculator
+
