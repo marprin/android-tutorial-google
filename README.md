@@ -9,4 +9,7 @@ Basic Android Tutorial Google
 7. Dice Roller
 8. Lemonade
 9. TipCalculator
-
+10. Affirmation
+11. Woof
+12. DessertClicker
+13. Unscramble
